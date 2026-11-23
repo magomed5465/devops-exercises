@@ -43,8 +43,7 @@
 
 Давайте теперь создадим какую-нибудь структуру.
 
-mkdir testdir
-touch testdir/mytest{01..1000} testdir/file{01..1000}
+<img width="488" height="57" alt="image" src="https://github.com/user-attachments/assets/c3f84312-e176-4f1e-97d9-b9eb2d882831" />
 
 Вы знаете, что мы сделали?
 </pre>
